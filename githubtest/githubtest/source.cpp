@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("asdfsd11asd");
+	printf("asdfasdfasd");
 	return 0;
 }
